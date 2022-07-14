@@ -7,7 +7,6 @@ The file main.c contains the main body implemented in `C`. It displays the `host
 ### Running the shell:
 
 ```bash
-$ cd <2019115008>
 $ make
 $ ./shell
 ```
